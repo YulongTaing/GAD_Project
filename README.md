@@ -1,8 +1,8 @@
-# 🎮 GAD_Project
+# GAD_Project
 
 Welcome to **GAD_Project** — a Unity-based game created for the Game Art & Design curriculum. This repository contains the full source code and assets of our game prototype built for interactive gameplay, artistic expression, and technical demonstration.
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 📁 Assets          - Game assets (models, scripts, audio, etc.)
@@ -12,7 +12,7 @@ Welcome to **GAD_Project** — a Unity-based game created for the Game Art & Des
 📁 Images          - Screenshots or concept art (for documentation)
 ```
 
-## ✨ Features
+## Features
 
 - 🕹️ Custom player controller with smooth movement  
 - 🌆 Interactive environment with visual effects  
@@ -20,7 +20,7 @@ Welcome to **GAD_Project** — a Unity-based game created for the Game Art & Des
 - 🎨 Stylized game art and animation  
 - 🧠 Modular code structure for scalability  
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project:
 
@@ -28,10 +28,10 @@ To run this project:
    ```bash
    git clone https://github.com/YulongTaing/GAD_Project.git
    ```
-2. **Open with Unity** (preferably 2022.x.x or compatible)  
+2. **Open with Unity** (preferably 2022.3.55f1 or compatible)  
 3. Hit ▶️ **Play** and enjoy the experience!
 
-## 📸 Preview
+## Preview
 
 > _Coming soon_: gameplay screenshots or video demo!
 
@@ -41,6 +41,11 @@ To run this project:
 - C# scripting  
 - Git for version control  
 
-## 📃 License
+## License
 
 This project is licensed under the MIT License — see the `LICENSE` file for details.
+
+## Credits
+
+This project is adapted from the open-source [Multiplayer-FPS](https://github.com/Armour/Multiplayer-FPS) by [Armour](https://github.com/Armour).  
+All rights and original credit go to the respective author.
